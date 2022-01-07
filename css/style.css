@@ -8,8 +8,17 @@ html, body {
 }
 
 /*============= BODY =============*/
-body{
-  background-color: rgb(255, 255, 255);
+.carousel-inner{
+background-color: #969191;
+}
+
+.whatdowedo{
+  background-color: #969191;
+  }
+
+.div-3{
+  background-color: #2c2020;
+
 }
 
 /*============= NAVIGATION =============*/
