@@ -1,2 +1,4 @@
 # OTA-Website
- Ottawa Tamil Association Website 2021
+ This is a website created for the Ottawa Tamil Association Website
+
+ Made By Dhirhan Kanesalingam with supervision from Waran Nadarajah
