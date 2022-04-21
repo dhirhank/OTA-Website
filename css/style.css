@@ -151,11 +151,11 @@ ul.social li{
 /*============= FOOTER =============*/
 footer{
   background-color: #969191;
-  padding: 1rem 2rem 3rem;
+  padding: .5rem .5rem .5rem;
 }
 
 footer img{
-  height: 8.5rem;
+  height: 15rem;
   margin: 1.5rem auto;
 }
 
